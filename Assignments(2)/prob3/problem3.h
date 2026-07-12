@@ -3,7 +3,7 @@
 
 // typedef char     C8_t;
 typedef signed int   S32_t;
-S32_t sumMainDiagonal(int matrix[3][3]);
+S32_t sumMainDiagonal(S32_t matrix[3][3]);
 void searchElement(S32_t *ptr, S32_t target);
 
 #endif
